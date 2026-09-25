@@ -33,8 +33,6 @@
 
 </div>
 
----
-
 <img align="right" width="270px" alt="Osito programando" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## 👨‍💻 Sobre mí

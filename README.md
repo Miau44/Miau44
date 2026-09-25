@@ -17,9 +17,6 @@
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Construyendo+software+empresarial+y+soluciones+basadas+en+datos;Full-Stack+%7C+Backend+%7C+Bases+de+Datos+%7C+Inteligencia+Artificial;Analisis+Financiero+%7C+Machine+Learning+%7C+Business+Intelligence;C%23+.NET+%7C+Angular+%7C+NestJS+%7C+Laravel+%7C+Vue;Transformando+requerimientos+complejos+en+software+escalable"
   alt="Presentación animada"
 />
-
-<br>
-
 <a href="https://www.linkedin.com/in/mauricio-gonzalo-morales-fernandez-2506722b4/">
   <img src="https://img.shields.io/badge/LinkedIn-Mauricio%20Morales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>

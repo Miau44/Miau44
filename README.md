@@ -41,15 +41,15 @@ alt="Typing animation"
 <p align="center">
   <img src="assets/whoami-citypop.svg" width="960" alt="Soy Mauricio Morales, Ingeniero de Sistemas de La Paz, Bolivia. Desarrollo aplicaciones empresariales, APIs, soluciones de datos e inteligencia artificial.">
 </p>
-
-Soy **Mauricio Gonzalo Morales Fernandez**, Ingeniero de Sistemas. Desarrollo aplicaciones empresariales de principio a fin: desde las reglas de negocio y las bases de datos hasta las interfaces, los dashboards y la automatización.
-
 <img 
 align="right" 
 width="270px" 
 alt="Osito programando" 
 src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"
 />
+
+
+Soy **Mauricio Gonzalo Morales Fernandez**, Ingeniero de Sistemas. Desarrollo aplicaciones empresariales de principio a fin: desde las reglas de negocio y las bases de datos hasta las interfaces, los dashboards y la automatización.
 
 Mi experiencia combina **desarrollo Full-Stack, análisis de datos e inteligencia artificial**, con proyectos en servicios públicos, recursos humanos y análisis financiero.
 

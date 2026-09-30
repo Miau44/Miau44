@@ -169,13 +169,45 @@ Mi experiencia combina **desarrollo Full-Stack, análisis de datos e inteligenci
 
 ## 🧠 Analítica de GitHub
 
-![Resumen del perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miau44&theme=github_dark&v=2)
 
-![Repositorios por lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miau44&theme=github_dark&v=2)
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miau44&theme=github_dark&v=2"
+width="750"
+/>
 
-![Lenguaje con más commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miau44&theme=github_dark&v=2)
 
-![Horario productivo](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Miau44&theme=github_dark&utcOffset=-4&v=2)
+<br>
+
+
+<table>
+<tr>
+
+<td>
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miau44&theme=github_dark&v=2"
+width="300"
+/>
+</td>
+
+
+<td>
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miau44&theme=github_dark&v=2"
+width="300"
+/>
+</td>
+
+
+<td>
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Miau44&theme=github_dark&utcOffset=-4&v=2"
+width="300"
+/>
+</td>
+
+</tr>
+</table>
+
 
 </div>
 

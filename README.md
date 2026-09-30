@@ -54,7 +54,7 @@ Soy **Mauricio Gonzalo Morales Fernandez**, Ingeniero de Sistemas. Desarrollo ap
 Mi experiencia combina **desarrollo Full-Stack, análisis de datos e inteligencia artificial**, con proyectos en servicios públicos, recursos humanos y análisis financiero.
 
 <br>
-
+<br>
 ## `$ cat tech-stack.yaml`
 
 <table>

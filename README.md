@@ -1,3 +1,8 @@
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Construyendo+software+empresarial+y+soluciones+basadas+en+datos;Full-Stack+%7C+Backend+%7C+Bases+de+Datos+%7C+IA;C%23+.NET+%7C+Angular+%7C+NestJS+%7C+Laravel;Transformando+ideas+en+soluciones+digitales"
+alt="Typing animation"
+/>
+
 <div align="center">
 
 <a href="https://github.com/Miau44">
@@ -14,6 +19,25 @@
 
 </div>
 
+<a href="https://www.linkedin.com/in/mauricio-gonzalo-morales-fernandez-2506722b4/">
+<img src="https://img.shields.io/badge/LinkedIn-Mauricio%20Morales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
+<a href="mailto:morales.12453447@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contactarme-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+
+<a href="https://github.com/Miau44">
+<img src="https://img.shields.io/badge/GitHub-Miau44-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+
+<img src="https://komarev.com/ghpvc/?username=Miau44&style=for-the-badge&color=blue">
+
+
+</div>
 ---
 
 ## `$ whoami`

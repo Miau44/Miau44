@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img" aria-labelledby="title">
+<title id="title">Mauricio Morales · Full-Stack Developer · C# / .NET · Angular · NestJS · Laravel · Bases de datos · Chatbots · Inteligencia Artificial</title>
+<style>
+      text { fill: #b84368; font-family: ui-monospace, Consolas, monospace; font-size: 24px; font-weight: 700; }
+      .line { opacity: 0; animation: cycle 12s infinite; }
+      .one { opacity: 1; } .two { animation-delay: 4s; } .three { animation-delay: 8s; }
+      .cursor { animation: blink 1s steps(2, start) infinite; }
+      @keyframes cycle { 0%, 27% { opacity: 1; } 33.33%, 100% { opacity: 0; } }
+      @keyframes blink { to { opacity: 0; } }
+      @media (prefers-color-scheme: dark) { text { fill: #f78ca0; } }
+      @media (prefers-reduced-motion: reduce) { .line, .cursor { animation: none; } .one { opacity: 1; } }
+    </style><text class="line one" x="450" y="37" text-anchor="middle">Mauricio Morales · Full-Stack Developer<tspan class="cursor"> ▍</tspan></text><text class="line two" x="450" y="37" text-anchor="middle">C# / .NET · Angular · NestJS · Laravel<tspan class="cursor"> ▍</tspan></text><text class="line three" x="450" y="37" text-anchor="middle">Bases de datos · Chatbots · Inteligencia Artificial<tspan class="cursor"> ▍</tspan></text>
+</svg>

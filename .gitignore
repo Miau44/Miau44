@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.preview/
+.DS_Store

@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 390" width="960" height="390" role="img" aria-labelledby="title desc">
+  <title id="title">Mauricio Morales — Full-Stack Developer</title>
+  <desc id="desc">A city-pop styled terminal profile card with Mauricio Morales's location, mission and technical focus, featuring a synthwave postcard-inspired Illimani scene from La Paz.</desc>
+
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#c7a4f5"/>
+      <stop offset="1" stop-color="#77c8f0"/>
+    </linearGradient>
+
+    <linearGradient id="sceneSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#25143a"/>
+      <stop offset="40%" stop-color="#4f2a67"/>
+      <stop offset="72%" stop-color="#d35d93"/>
+      <stop offset="100%" stop-color="#f0a6a6"/>
+    </linearGradient>
+
+    <linearGradient id="mountainFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#b6c1f3"/>
+      <stop offset="42%" stop-color="#646f99"/>
+      <stop offset="100%" stop-color="#25293d"/>
+    </linearGradient>
+
+    <linearGradient id="gridFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#76d8d2" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#76d8d2" stop-opacity=".08"/>
+    </linearGradient>
+
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="sceneClip">
+      <rect x="666" y="128" width="236" height="172" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <rect width="960" height="390" rx="18" fill="#17171c"/>
+  <rect x="9" y="9" width="942" height="372" rx="13" fill="none" stroke="url(#sky)" stroke-width="2"/>
+
+  <circle cx="35" cy="35" r="5" fill="#f3a0b5"/>
+  <circle cx="54" cy="35" r="5" fill="#f1d09a"/>
+  <circle cx="73" cy="35" r="5" fill="#9de4d1"/>
+
+  <text x="98" y="41" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Miau44  ·  profile shell  ·  online</text>
+  <path d="M29 58H931" stroke="#343441"/>
+
+  <!-- LEFT PANEL -->
+  <rect x="29" y="78" width="594" height="271" rx="9" fill="#1d1d23" stroke="#b99af0" stroke-width="1.5"/>
+
+  <text x="48" y="111" fill="#76d8d2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">❯ whoami</text>
+  <text x="48" y="143" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">mauricio_morales</text>
+  <text x="222" y="143" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">—</text>
+  <text x="248" y="143" fill="#f3d29b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">Full-Stack Developer</text>
+
+  <path d="M48 166H604" stroke="#343441"/>
+
+  <text x="48" y="196" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">context:</text>
+  <text x="166" y="196" fill="#c7a4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">La Paz, Bolivia</text>
+
+  <text x="48" y="225" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">mission:</text>
+  <text x="166" y="225" fill="#9de4d1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">software útil, datos y automatización</text>
+
+  <text x="48" y="267" fill="#76d8d2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">❯ ls expertise/</text>
+  <text x="48" y="299" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">backend/</text>
+  <text x="214" y="299" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">C# / .NET · NestJS · Laravel</text>
+
+  <text x="48" y="326" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">data-ai/</text>
+  <text x="214" y="326" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">SQL · Python · Power BI · ML</text>
+
+  <!-- RIGHT PANEL -->
+  <rect x="651" y="78" width="280" height="271" rx="9" fill="#1d1d23" stroke="#b99af0" stroke-width="1.5"/>
+  <text x="674" y="111" fill="#f3d29b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">La Paz · runtime</text>
+
+  <!-- SCENE -->
+  <g clip-path="url(#sceneClip)">
+    <!-- sky -->
+    <rect x="666" y="128" width="236" height="172" fill="url(#sceneSky)"/>
+
+    <!-- stars -->
+    <circle cx="690" cy="145" r="1.2" fill="#fff" opacity=".9"/>
+    <circle cx="720" cy="162" r="1" fill="#fff" opacity=".65"/>
+    <circle cx="744" cy="148" r="1.3" fill="#c7a4f5" opacity=".85"/>
+    <circle cx="770" cy="170" r="1" fill="#fff" opacity=".7"/>
+    <circle cx="804" cy="150" r="1.2" fill="#9de4d1" opacity=".8"/>
+    <circle cx="828" cy="168" r="1" fill="#fff" opacity=".7"/>
+    <circle cx="852" cy="147" r="1.4" fill="#f3a0b5" opacity=".85"/>
+    <circle cx="878" cy="162" r="1" fill="#fff" opacity=".65"/>
+
+    <!-- glow behind mountain -->
+    <ellipse cx="792" cy="206" rx="82" ry="40" fill="#ff71b8" opacity=".18" filter="url(#softGlow)"/>
+    <ellipse cx="792" cy="214" rx="105" ry="30" fill="#76d8d2" opacity=".08" filter="url(#softGlow)"/>
+
+    <!-- distant city silhouette -->
+    <path d="M666 242
+             L679 242 L679 234 L688 234 L688 242
+             L699 242 L699 228 L710 228 L710 242
+             L719 242 L719 220 L732 220 L732 242
+             L744 242 L744 230 L752 230 L752 242
+             L765 242 L765 225 L774 225 L774 242
+             L785 242 L785 218 L795 218 L795 242
+             L807 242 L807 229 L818 229 L818 242
+             L829 242 L829 222 L840 222 L840 242
+             L852 242 L852 231 L863 231 L863 242
+             L874 242 L874 224 L887 224 L887 242
+             L902 242 L902 300 L666 300 Z"
+          fill="#231b31"
+          opacity=".82"/>
+
+    <!-- small city lights -->
+    <g opacity=".8">
+      <rect x="704" y="232" width="2" height="2" fill="#f3d29b"/>
+      <rect x="708" y="232" width="2" height="2" fill="#f3a0b5"/>
+      <rect x="723" y="224" width="2" height="2" fill="#76d8d2"/>
+      <rect x="727" y="224" width="2" height="2" fill="#f3d29b"/>
+      <rect x="767" y="229" width="2" height="2" fill="#c7a4f5"/>
+      <rect x="789" y="222" width="2" height="2" fill="#76d8d2"/>
+      <rect x="833" y="226" width="2" height="2" fill="#f3d29b"/>
+      <rect x="879" y="228" width="2" height="2" fill="#f3a0b5"/>
+    </g>
+
+    <!-- main mountain silhouette -->
+    <path d="M668 260
+             L690 252
+             L704 239
+             L718 245
+             L735 225
+             L750 237
+             L770 214
+             L784 225
+             L804 187
+             L819 212
+             L833 201
+             L852 226
+             L869 219
+             L889 242
+             L902 247
+             L902 300
+             L668 300 Z"
+          fill="url(#mountainFill)"
+          stroke="#76d8d2"
+          stroke-width="1.8"
+          filter="url(#glow)"/>
+
+    <!-- snow cap -->
+    <path d="M731 230
+             L735 225
+             L744 231
+             L750 237
+             L758 228
+             L770 214
+             L777 221
+             L784 225
+             L792 213
+             L804 187
+             L812 201
+             L819 212
+             L826 208
+             L833 201
+             L841 211
+             L835 214
+             L828 220
+             L819 215
+             L812 207
+             L804 200
+             L797 212
+             L789 219
+             L779 225
+             L770 221
+             L760 229
+             L750 235 Z"
+          fill="#eef5ff"
+          opacity=".98"/>
+
+    <!-- foothills -->
+    <path d="M666 260
+             C690 250 712 257 734 250
+             C752 244 767 251 783 244
+             C807 234 827 246 846 239
+             C866 232 885 242 902 238
+             L902 300 L666 300 Z"
+          fill="#1d1730"
+          opacity=".78"/>
+
+    <!-- horizon line -->
+    <path d="M666 260H902" stroke="#f3a0b5" stroke-width="1.5" opacity=".45"/>
+
+    <!-- synthwave grid -->
+    <g opacity=".62">
+      <path d="M666 300H902" stroke="#76d8d2" stroke-width="1.2"/>
+      <path d="M676 291H892" stroke="url(#gridFade)" stroke-width="1"/>
+      <path d="M686 282H882" stroke="url(#gridFade)" stroke-width="1"/>
+      <path d="M698 273H870" stroke="url(#gridFade)" stroke-width="1"/>
+      <path d="M712 264H856" stroke="url(#gridFade)" stroke-width="1"/>
+    </g>
+
+    <!-- vertical perspective lines -->
+    <g opacity=".42">
+      <path d="M784 300L708 260" stroke="#76d8d2" stroke-width="1"/>
+      <path d="M784 300L732 260" stroke="#76d8d2" stroke-width="1"/>
+      <path d="M784 300L752 260" stroke="#76d8d2" stroke-width="1"/>
+      <path d="M784 300L772 260" stroke="#76d8d2" stroke-width="1"/>
+      <path d="M784 300L796 260" stroke="#76d8d2" stroke-width="1"/>
+      <path d="M784 300L818 260" stroke="#76d8d2" stroke-width="1"/>
+      <path d="M784 300L838 260" stroke="#76d8d2" stroke-width="1"/>
+      <path d="M784 300L862 260" stroke="#76d8d2" stroke-width="1"/>
+    </g>
+
+    <!-- label postcard style -->
+    <text x="676" y="145" fill="#ffd7b2" opacity=".92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">ILLIMANI // LA PAZ</text>
+  </g>
+
+  <text x="674" y="326" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">status: aprendiendo siempre</text>
+</svg>

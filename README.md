@@ -197,6 +197,12 @@ Mi experiencia combina **desarrollo Full-Stack, análisis de datos e inteligenci
 ║        Software Engineer · Full Stack · Data · IA           ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                  MAURICIO MORALES · GITHUB                  ║
+║        Software Engineer · Full Stack · Data · IA           ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
@@ -204,7 +210,8 @@ Mi experiencia combina **desarrollo Full-Stack, análisis de datos e inteligenci
 
 ### Software Engineer · Full-Stack Developer · Backend · Data & AI
 
-<img
+
+<img 
 src="./assets/visual-map.svg"
 width="900"
 />
@@ -220,38 +227,56 @@ alt="Typing animation"
 <img src="https://img.shields.io/badge/LinkedIn-Mauricio%20Morales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+
 <a href="mailto:morales.12453447@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contactarme-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 
 <a href="https://github.com/Miau44">
 <img src="https://img.shields.io/badge/GitHub-Miau44-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+
 <img src="https://komarev.com/ghpvc/?username=Miau44&style=for-the-badge&color=blue">
+
 
 </div>
 
 
 ---
 
-# 👨‍💻 Sobre mí
+<img 
+align="right" 
+width="270px" 
+alt="Osito programando" 
+src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"
+/>
+
+
+## 👨‍💻 Sobre mí
+
 
 Soy **Ingeniero de Sistemas de La Paz, Bolivia**, enfocado en crear soluciones de software escalables, mantenibles y orientadas a resolver problemas reales.
 
-Mi enfoque combina:
+
+Mi perfil combina:
+
 
 - 💻 Desarrollo Full-Stack
 - ⚙️ Ingeniería Backend
 - 🏗️ Arquitectura de Software
-- 🗄️ Diseño de Bases de Datos
+- 🗄️ Bases de Datos
 - 🤖 Inteligencia Artificial
 - 📊 Análisis de Datos
 - 🔌 APIs REST
 - ☁️ Cloud y automatización
 
 
-Actualmente me interesa construir sistemas donde el software, los datos y la inteligencia artificial trabajen juntos para generar mejores decisiones.
+Me interesa construir software donde la tecnología, los datos y la inteligencia artificial permitan resolver problemas complejos.
+
+
+<br clear="right"/>
 
 
 ---
@@ -263,13 +288,13 @@ Actualmente me interesa construir sistemas donde el software, los datos y la int
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
+
 
 ## ⚙️ Backend Engineering
 
-Diseño de APIs, lógica de negocio, arquitectura de servicios y sistemas empresariales.
+Diseño de APIs, lógica de negocio y sistemas empresariales.
 
-Stack:
 
 `C#`
 `.NET`
@@ -278,22 +303,24 @@ Stack:
 `Laravel`
 `Python`
 
+
 </td>
 
 
-<td width="50%" valign="top">
+<td width="50%">
+
 
 ## 🎨 Full Stack Development
 
-Construcción de interfaces modernas conectadas con sistemas robustos.
+Aplicaciones web modernas y experiencias digitales.
 
-Stack:
 
 `Angular`
 `React`
 `Vue`
 `TypeScript`
 `Flutter`
+
 
 </td>
 
@@ -302,13 +329,15 @@ Stack:
 
 <tr>
 
-<td width="50%" valign="top">
+
+<td width="50%">
+
 
 ## 🧠 Artificial Intelligence
 
-Aplicaciones con automatización, Machine Learning y procesamiento de información.
 
-Stack:
+Automatización, Machine Learning y procesamiento de información.
+
 
 `Python`
 `Machine Learning`
@@ -316,16 +345,18 @@ Stack:
 `Pandas`
 `NumPy`
 
+
 </td>
 
 
-<td width="50%" valign="top">
+<td width="50%">
+
 
 ## 📊 Data Engineering
 
-Transformación de datos en información útil para decisiones.
 
-Stack:
+Transformación de datos en información útil.
+
 
 `SQL`
 `Oracle`
@@ -333,7 +364,9 @@ Stack:
 `Power BI`
 `Excel`
 
+
 </td>
+
 
 </tr>
 
@@ -345,7 +378,7 @@ Stack:
 # 🛠️ Tech Stack
 
 
-### Backend
+## Backend
 
 <p>
 
@@ -354,7 +387,7 @@ Stack:
 </p>
 
 
-### Frontend
+## Frontend
 
 <p>
 
@@ -363,7 +396,7 @@ Stack:
 </p>
 
 
-### Database
+## Database
 
 <p>
 
@@ -372,7 +405,7 @@ Stack:
 </p>
 
 
-### Tools & Cloud
+## Tools & Cloud
 
 <p>
 
@@ -391,7 +424,7 @@ Requirements
       ↓
 Business Logic
       ↓
-System Architecture
+Architecture
       ↓
 Database Design
       ↓
@@ -406,201 +439,3 @@ Testing
 Deployment
       ↓
 Continuous Improvement
-```
-
-
-Construyo software enfocado en:
-
-```
-Clean Code
-Scalable Architecture
-Secure Systems
-Data Driven Decisions
-```
-
-
----
-
-# 💻 Developer Mode
-
-
-```javascript
-const mauricio = {
-
-  role: "Software Engineer",
-
-  location: "La Paz, Bolivia",
-
-  focus: [
-    "Full Stack Development",
-    "Backend Architecture",
-    "Data Engineering",
-    "Artificial Intelligence"
-  ],
-
-
-  technologies: [
-    ".NET",
-    "Angular",
-    "Node.js",
-    "Python",
-    "SQL"
-  ],
-
-
-  mindset:
-    "Build useful software that solves real problems."
-
-};
-```
-
-
----
-
-# 📊 GitHub Dashboard
-
-
-<div align="center">
-
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Miau44&show_icons=true&theme=github_dark&hide_border=true"
-/>
-
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miau44&layout=compact&theme=github_dark&hide_border=true"
-/>
-
-
-<br>
-
-
-<img
-src="https://streak-stats.demolab.com?user=Miau44&theme=github-dark-blue&hide_border=true"
-/>
-
-
-</div>
-
-
----
-
-# ⚡ Activity
-
-
-<div align="center">
-
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Miau44&theme=github-compact&hide_border=true"
-/>
-
-
-</div>
-
-
----
-
-# 🎯 Professional Interests
-
-
-<table>
-
-<tr>
-
-<td align="center">
-🏦<br>
-Software Financiero
-</td>
-
-<td align="center">
-⚙️<br>
-Backend Engineering
-</td>
-
-<td align="center">
-🤖<br>
-Artificial Intelligence
-</td>
-
-<td align="center">
-📊<br>
-Data Analytics
-</td>
-
-</tr>
-
-
-<tr>
-
-<td align="center">
-🗄️<br>
-Database Engineering
-</td>
-
-<td align="center">
-🔌<br>
-REST APIs
-</td>
-
-<td align="center">
-🏗️<br>
-Enterprise Systems
-</td>
-
-<td align="center">
-☁️<br>
-Cloud & DevOps
-</td>
-
-</tr>
-
-
-</table>
-
-
----
-
-# 🤝 Connect
-
-
-<div align="center">
-
-
-<a href="mailto:morales.12453447@gmail.com">
-
-<img src="https://img.shields.io/badge/EMAIL-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-
-</a>
-
-
-<a href="https://www.linkedin.com/in/mauricio-gonzalo-morales-fernandez-2506722b4/">
-
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-
-</a>
-
-
-<a href="https://github.com/Miau44">
-
-<img src="https://img.shields.io/badge/GITHUB-Projects-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-
-<br><br>
-
-
-```
-> Building software.
-> Understanding data.
-> Automating processes.
-> Solving problems.
-```
-
-
-⭐ Thanks for visiting my profile ⭐
-
-
-</div>

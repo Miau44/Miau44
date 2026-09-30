@@ -1,5 +1,5 @@
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Construyendo+software+empresarial+y+soluciones+basadas+en+datos;Full-Stack+%7C+Backend+%7C+Bases+de+Datos+%7C+IA;C%23+.NET+%7C+Angular+%7C+NestJS+%7C+Laravel;Transformando+ideas+en+soluciones+digitales"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=ING.+MAURICIO+MORALES+FERNANDEZ;Construyendo+software+empresarial+y+soluciones+basadas+en+datos;Full-Stack+%7C+Backend+%7C+Bases+de+Datos+%7C+IA;C%23+.NET+%7C+Angular+%7C+NestJS+%7C+Laravel;Transformando+ideas+en+soluciones+digitales"
 alt="Typing animation"
 />
 
@@ -17,8 +17,8 @@ alt="Typing animation"
 
 <img src="assets/typing.svg" width="900" alt="Mauricio Morales · Full-Stack Developer. Software empresarial, bases de datos, chatbots e inteligencia artificial.">
 
-</div>
-
+</div >
+<div align="center">
 <a href="https://www.linkedin.com/in/mauricio-gonzalo-morales-fernandez-2506722b4/">
 <img src="https://img.shields.io/badge/LinkedIn-Mauricio%20Morales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -28,17 +28,13 @@ alt="Typing animation"
 <img src="https://img.shields.io/badge/Email-Contactarme-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-
 <a href="https://github.com/Miau44">
 <img src="https://img.shields.io/badge/GitHub-Miau44-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-
 <img src="https://komarev.com/ghpvc/?username=Miau44&style=for-the-badge&color=blue">
-
-
 </div>
----
+
 
 ## `$ whoami`
 
@@ -159,20 +155,97 @@ Mi experiencia combina **desarrollo Full-Stack, análisis de datos e inteligenci
 
 ## `$ cat expertise.map`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-    <img src="assets/radar-light.svg" width="390" alt="Áreas de trabajo: backend, APIs REST, bases de datos, frontend, reportes y automatización.">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-    <img src="assets/radar-langs-light.svg" width="390" alt="Lenguajes del perfil: C#, TypeScript, JavaScript, PHP, Python y SQL.">
-  </picture>
-</p>
 
-<p align="center"><sub><code>mapas del perfil · áreas y lenguajes, sin puntuaciones de dominio</code></sub></p>
+# 📊 Centro de Control de GitHub
+
+<div align="center">
+
+## 📈 Resumen del Perfil
+
+![Estadísticas de Mauricio](https://github-readme-stats.vercel.app/api?username=Miau44&show_icons=true&theme=github_dark&hide_border=true&locale=es&v=2)
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Miau44&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=es&v=2)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Racha de Desarrollo
+
+![Racha de GitHub](https://streak-stats.demolab.com?user=Miau44&theme=github-dark-blue&hide_border=true&locale=es&v=2)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Actividad de Contribuciones
+
+![Actividad de Mauricio](https://github-readme-activity-graph.vercel.app/graph?username=Miau44&theme=github-compact&hide_border=true&area=true&v=2)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 Analítica de GitHub
+
+![Resumen del perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miau44&theme=github_dark&v=2)
+
+![Repositorios por lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miau44&theme=github_dark&v=2)
+
+![Lenguaje con más commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miau44&theme=github_dark&v=2)
+
+![Horario productivo](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Miau44&theme=github_dark&utcOffset=-4&v=2)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Logros en GitHub
+
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Miau44&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&v=2)
+
+</div>
+
+---
+
+# 🤝 Conectemos
+
+<div align="center">
+
+### Interesado en Ingeniería de Software, sistemas empresariales, tecnología financiera, Inteligencia Artificial y productos orientados a datos.
+
+<a href="mailto:morales.12453447@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Hablemos-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/mauricio-gonzalo-morales-fernandez-2506722b4/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Miau44">
+  <img src="https://img.shields.io/badge/GITHUB-Explorar%20mis%20proyectos-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+```text
+> Construyendo software.
+> Entendiendo los datos.
+> Automatizando procesos.
+> Resolviendo problemas reales.
+```
+
+**Gracias por visitar mi perfil 🚀**
+
+</div>
 
 ---
 

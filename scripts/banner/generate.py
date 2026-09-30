@@ -28,9 +28,10 @@ SOURCE = ROOT / "assets/source/portrait.png"
 ASSETS = ROOT / "assets"
 
 W, H = 1180, 610
-INTRO_SECONDS = 3.2
-TRANSITION_SECONDS = 1.3
-LOGO_HOLD_SECONDS = 4.0
+INTRO_SECONDS = 0.6
+PORTRAIT_HOLD_SECONDS = 1.2
+TRANSITION_SECONDS = 0.5
+LOGO_HOLD_SECONDS = 1.2
 TRAVELLER_COUNT = 900
 HOLD_PARTICLE_COUNT = 2_400
 SEED = 314159
@@ -290,9 +291,9 @@ def render_svg(
         current = transport(current, points[:n])
         targets.append(current)
 
-    # Three seconds of portrait, then transitions and full-logo holds. Returning
+    # Brief portrait hold, then transitions and full-logo holds. Returning
     # to the portrait keeps the loop seamless.
-    times = [0.0, 3.0]
+    times = [0.0, PORTRAIT_HOLD_SECONDS]
     frames = [source, source]
     for target in targets:
         times.extend((times[-1] + TRANSITION_SECONDS,
@@ -348,7 +349,7 @@ def render_svg(
         f'fill="none" stroke="{t["portrait"]}" stroke-width="1"/>',
         '<g class="animated" clip-path="url(#visualClip)" shape-rendering="crispEdges">',
         # Loop layer stays visible at t=0 so camo/static first frames still show the face.
-        # Intro duplicate below shimmers on top, then hands off at 3.2s.
+        # Intro duplicate below shimmers on top, then hands off to the loop.
         '<g opacity="1">',
     ]
 
@@ -414,7 +415,7 @@ def render_svg(
     intro_ids = rng.integers(0, 60, size=len(portrait))
     order = rng.permutation(60)
     starts = np.empty(60)
-    starts[order] = np.linspace(0.05, 1.2, 60)
+    starts[order] = np.linspace(INTRO_SECONDS * 0.02, INTRO_SECONDS * 0.5, 60)
     for group in range(60):
         pts = portrait[intro_ids == group]
         if not len(pts):
@@ -422,9 +423,11 @@ def render_svg(
         parts.append(
             f'<path d="{point_path(pts)}" fill="none" stroke="{t["portrait"]}" '
             'stroke-width="1" opacity="0">'
-            f'<animate attributeName="opacity" begin="{num(starts[group])}s" dur=".8s" '
+            f'<animate attributeName="opacity" begin="{time_num(starts[group])}s" '
+            f'dur="{time_num(INTRO_SECONDS * 0.3)}s" '
             'values="0;1" fill="freeze"/>'
-            '<animate attributeName="opacity" begin="3.08s" dur=".12s" values="1;0" fill="freeze"/>'
+            f'<animate attributeName="opacity" begin="{time_num(INTRO_SECONDS * 0.8)}s" '
+            f'dur="{time_num(INTRO_SECONDS * 0.2)}s" values="1;0" fill="freeze"/>'
             "</path>"
         )
     parts.extend(

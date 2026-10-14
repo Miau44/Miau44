@@ -215,8 +215,6 @@ width="300"
 
 ---
 
-<br><br>
-
 ```text
 > Construyendo software.
 > Entendiendo los datos.
@@ -264,10 +262,8 @@ width="300"
   <img src="assets/social-github.svg" height="32" alt="GitHub · Miau44">
 </a>
 
-<br><br>
+<br>
 
 <sub>Software, datos e ideas desde La Paz, Bolivia · @Miau44</sub><br>
-<sub>Diseño adaptado del perfil de <a href="https://github.com/macu-dev/macu-dev">macu-dev</a>.</sub>
-
 </div>
 
